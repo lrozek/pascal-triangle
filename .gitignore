@@ -1,0 +1,10 @@
+classes
+*.class
+.~lock*
+.settings
+target
+.classpath
+.project
+bin
+.gitk-tmp*
+test-output
